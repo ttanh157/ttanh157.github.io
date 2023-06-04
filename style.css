@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.carousel-caption {
+  left: 30%;
+  top: 30%;
+  text-align: start;
+}
